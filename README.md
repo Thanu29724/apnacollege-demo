@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first git repository. <br>Author-thanush M N
+This is my first git repository. <br>
+Author-Thanush M N (ECE)
 
